@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d60ca535cb2e94126984748ab102b264
+timeCreated: 1525986390
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blockPrefab: {fileID: 114786164530221542, guid: 3f60ab572d24f4ec2802e9250958cb37,
+      type: 2}
+  - placementIndicator: {instanceID: 0}
+  - canPlaceMaterial: {fileID: 2100000, guid: d3b6bceefdd8044e0a9923a539d7d849, type: 2}
+  - noPlaceMaterial: {fileID: 2100000, guid: 73e9e344f542c4da1b61bdddd7cba99e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
